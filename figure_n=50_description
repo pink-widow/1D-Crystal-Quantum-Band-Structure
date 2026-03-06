@@ -1,0 +1,11 @@
+The figure shows the potential profile and the corresponding energy eigenvalues for the case of **(n = 50) potential barriers** inside the infinite well.
+
+The **black rectangular pattern** represents the potential (V(x)). Each spike corresponds to a barrier of height (V_0) and width (a), separated by free regions of the same width. Because there are many barriers, the potential structure becomes highly repetitive, resembling a **one-dimensional periodic lattice** similar to those used to model electrons in crystals.
+
+The **red horizontal lines** represent the allowed **energy eigenvalues** (bound states) of the particle in this potential. Instead of appearing as a simple discrete spectrum like a particle in a box, the eigenvalues begin to **cluster into dense regions** separated by **clear gaps where no energy levels appear**.
+
+These dense regions correspond to **allowed energy bands**, while the empty regions correspond to **band gaps (forbidden energies)**. This behavior emerges because the repeated scattering of the wavefunction from many regularly spaced barriers mimics the effect of a periodic potential. As predicted by **Bloch-type behavior in periodic systems**, the spectrum reorganizes into bands rather than isolated levels.
+
+At **low energies**, the states are strongly influenced by the barriers, producing narrower allowed regions. As the energy increases, the allowed bands become **wider and contain more states**, because higher-energy particles are less affected by the barriers and can propagate more easily through the structure.
+
+Overall, this result demonstrates how increasing the number of internal barriers causes the system to transition from a simple **finite-well spectrum** to a **band-like structure**, qualitatively similar to the energy bands observed in solid-state physics.
